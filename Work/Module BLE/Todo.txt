@@ -1,0 +1,11 @@
+Todo list
+- Module BLE - TuanAnh
+
+- Nguon vao 5V (USB) --> 3.3V
+- Nap SWDIO, SWCLK
+- Giao tiep I2C
+- Chan ADC
+- Chuan dieu khien LED\RGB
+- Chuan dieu khien led phat IR
+- Led hien thi x2
+- Nut bam x2
